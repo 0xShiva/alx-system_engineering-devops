@@ -4,3 +4,4 @@
 1. 0-hello_world script just print on the standard output "Hello, World\n"
 2. **1-confused_smiley** script is about to know how to escape special characters.
 3. **2-hellofile** just display the content of /etc/passwd file
+4. **3-twofiles** like the previous script but this time it display content of two files at once.
