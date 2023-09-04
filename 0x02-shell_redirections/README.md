@@ -8,4 +8,5 @@
 5. **4-lastlines** displays last 10 lines of a file.
 6. **5-firstlines** unlike the previous one this script displays 10 first line of a file.
 7. **6-third_line** display nth line of a given file.
-8. **7-file** this one help to dive deeper on Special characters
+8. **7-file** this one help to dive deeper on Special characters.
+9. **8-cwd_state** list the content of the cwd then redirecte the output to ls_cwd_content file.
