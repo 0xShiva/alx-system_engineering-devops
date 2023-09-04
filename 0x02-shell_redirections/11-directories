@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lRa | grep ^d | wc -l
+fint ./* -type d | wc -l
