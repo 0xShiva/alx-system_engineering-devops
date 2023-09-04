@@ -3,3 +3,4 @@
 *Today project consists of creating simple scripts, inorder to get use to CLI I/O manipulation*
 1. 0-hello_world script just print on the standard output "Hello, World\n"
 2. **1-confused_smiley** script is about to know how to escape special characters.
+3. **2-hellofile** just display the content of /etc/passwd file
