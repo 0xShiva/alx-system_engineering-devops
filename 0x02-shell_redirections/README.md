@@ -10,3 +10,5 @@
 7. **6-third_line** display nth line of a given file.
 8. **7-file** this one help to dive deeper on Special characters.
 9. **8-cwd_state** list the content of the cwd then redirecte the output to ls_cwd_content file.
+10 . **9-duplicate_last_line** this script git the last line of the file using tail command then append it to the same file.
+
