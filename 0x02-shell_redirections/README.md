@@ -22,4 +22,4 @@
 19. **18-letteronly** display all lines of the file /etc/ssh/sshd_config starting with a letter.
 20. **19-AZ** using tr to translate characters.
 21. **20-hiago** using tr command with flag -d to delete characters from input.
-23. **22-users_and_homes** this script take a dilimiter with cut as : then take only first field that contain user and the sixth that containe home the display them sorted.
+23. **22-users_and_homes** this script take a delimiter with cut as : then take only first field that contain user and the sixth that containe home the display them sorted.
