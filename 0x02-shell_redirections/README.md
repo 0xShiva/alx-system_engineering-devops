@@ -19,4 +19,4 @@
 16. **15-countthatword** filter the given pattern in a file using grep then count line with wc.
 17. **16-whatsnext** this script filter the file with the given pattern then using -A <n> flag gives n line after the patternwhich was found.
 18. **17-hidethisword** this script uses -v flag of grep the invert the match.
-
+19. **18-letteronly** display all lines of the file /etc/ssh/sshd_config starting with a letter.
