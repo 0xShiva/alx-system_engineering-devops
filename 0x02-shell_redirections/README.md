@@ -21,3 +21,5 @@
 18. **17-hidethisword** this script uses -v flag of grep the invert the match.
 19. **18-letteronly** display all lines of the file /etc/ssh/sshd_config starting with a letter.
 20. **19-AZ** using tr to translate characters.
+21. **20-hiago** using tr command with flag -d to delete characters from input.
+
