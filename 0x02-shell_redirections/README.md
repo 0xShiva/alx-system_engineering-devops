@@ -17,4 +17,5 @@
 14. **13-unique** this script take input words sort it then filter it with uniq command to output only words that appear once.
 15. **14-findthatword** display content of file then pipe output to grep to filter it with given pattern.
 16. **15-countthatword** filter the given pattern in a file using grep then count line with wc.
+17. **16-whatsnext** this script filter the file with the given pattern then using -A <n> flag gives n line after the patternwhich was found.
  
