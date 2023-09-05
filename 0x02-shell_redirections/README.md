@@ -15,3 +15,4 @@
 12. **11-directories** count directories on cwd and it sub using find ti filter and wc to count.
 13. **12-newest_files** list the newest files by time of creation then display newest 10 files.
 14. **13-unique** this script take input words sort it then filter it with uniq command to output only words that appear once.
+15. **14-findthatword** display content of file then pipe output to grep to filter it with given pattern
