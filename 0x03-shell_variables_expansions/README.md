@@ -9,4 +9,4 @@
 7. **6-create_local_variable** as the name suggests ctreates a local variable.
 8. **7-create_global_variable** it creates a global variable this time.
 9. **8-true_knowledge** prints the sum of a variable with a value.
-
+10. **9-divide_and_rule** prints the result of dividing two variables.
