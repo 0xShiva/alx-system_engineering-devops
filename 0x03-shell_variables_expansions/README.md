@@ -7,4 +7,5 @@
 5. **4-global_variables** displays environment variables.
 6. **5-local_variables** displays all local variables and environment variables and functions.
 7. **6-create_local_variable** as the name suggests ctreates a local variable.
+8. **7-create_global_variable** it creates a global variable this time.
 
