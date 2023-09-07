@@ -28,4 +28,5 @@
 14. **13-print_float** print variable's value as float.
 14. **13-print_float** print variable's value as float.
 15. **101-rot13** this script performs simple text transformation with a char shift of 13 positions.
-16. **102-odd** this script index input line then filters it with odd nums then cut the second field.
+16. **102-odd** this script index input line then filters it with odd nums then cut the second field.17. **103-water_and_stir** thi script sum up to value with base 5 then print it with base 8 the transform each digits to bestchol.
+
