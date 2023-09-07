@@ -4,3 +4,5 @@
 2. **1-hello_you** display hello USER using vriables expansions.
 3. **2-path** add directory called action to make shell looks into when looking for a program.
 4. **3** count number of directories in PATH variable.
+5. **4-global_variables** display environment variables.
+
