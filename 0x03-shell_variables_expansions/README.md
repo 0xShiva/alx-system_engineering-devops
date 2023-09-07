@@ -13,4 +13,18 @@
 11. **10-love_exponent_breath** prints the result of variable to the power of other variable value.
 12. **11-binary_to_decimal** convert from binary to decimal.
 13. **12-combinations** Create combination of two chars then fiters them from "oo" combo.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
+14. **13-print_float** print variable's value as float.
 
