@@ -6,4 +6,5 @@
 4. **3** count number of directories in PATH variable.
 5. **4-global_variables** displays environment variables.
 6. **5-local_variables** displays all local variables and environment variables and functions.
+7. **6-create_local_variable** as the name suggests ctreates a local variable.
 
