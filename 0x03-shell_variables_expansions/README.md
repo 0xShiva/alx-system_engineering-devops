@@ -10,3 +10,4 @@
 8. **7-create_global_variable** it creates a global variable this time.
 9. **8-true_knowledge** prints the sum of a variable with a value.
 10. **9-divide_and_rule** prints the result of dividing two variables.
+11. **10-love_exponent_breath** prints the result of variable to the power of other variable value.
